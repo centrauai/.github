@@ -1,5 +1,5 @@
 # CENTER FOR ENERGY TRANSITION (CENTRA) - UAI - CHILE
-Welcome to the organizational page of the Center for Energy Transition (CENTRA). CENTRA is a multidisciplinary 
+Welcome to the organizational page of the Center for Energy Transition (CENTRA). CENTRA is a multidisciplinary center belonging to the Faculty of Engineering and Science in Universidad Adolfo Ibañez (UAI) in Chile.
 
 ## Mission
 The UAI Center for Energy Transition (CENTRA UAI) promotes a cost-efficient, safe, socio-environmentally sustainable, and territorially just energy transition, through fundamental and applied, collaborative and interdisciplinary research, developing innovative tools for the public sector and industry.
